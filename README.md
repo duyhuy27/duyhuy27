@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Swift<br>💬 Ask me about Flutter, Java, RestAPI, Firebase, Android
+🔭 I’m currently working on Android & IOS Native<br>🌱 I’m currently learning Swift<br>💬 Ask me about Flutter, Java, RestAPI, Firebase, Android
 
 
 ## 🌐 Socials:
