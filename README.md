@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=duyhuy27&icon=0&color=2)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=duyhuy27&label=Profile%20Views&color=1&icon=3&pretty=true" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
